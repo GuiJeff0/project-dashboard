@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #FF8400;
+    --color-primary: #00aeff;
     --color-error: #FF0000;
 }
 
 html, body{
     height: 100%;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #root {
@@ -31,6 +31,3 @@ html, body{
     color: var(--color-primary) !important;
 }
 
-footer{
-    
-}
