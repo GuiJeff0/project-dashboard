@@ -14,9 +14,9 @@ const Footer = () => {
         </div>
 
         <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
-          <li className="ms-3"><a className="text-body-secondary" href="https://github.com/GuiJeff0"><img src ={GitHubImg} className="bi" width="24" height="24"></img></a></li>
-          <li className="ms-3"><a className="text-body-secondary" href="https://www.linkedin.com/in/guilherme-santos-8512a1176/"><img src = {LinkedinImg} className="bi" width="24" height="24"></img></a></li>
-          <li className="ms-3"><a className="text-body-secondary" href="mailto:guilhermejeffofc@gmail.com"><img src = {GmailImg}className="bi" width="24" height="24"></img></a></li>
+          <li className="ms-3"><a className="text-body-secondary" href="https://github.com/GuiJeff0"><img src ={GitHubImg} className="bi" width="24" height="24" alt='img'></img></a></li>
+          <li className="ms-3"><a className="text-body-secondary" href="https://www.linkedin.com/in/guilherme-santos-8512a1176/"><img src = {LinkedinImg} className="bi" width="24" height="24" alt='img'></img></a></li>
+          <li className="ms-3"><a className="text-body-secondary" href="mailto:guilhermejeffofc@gmail.com"><img src = {GmailImg}className="bi" width="24" height="24" alt='img'></img></a></li>
         </ul>
       </footer>
     </div>
